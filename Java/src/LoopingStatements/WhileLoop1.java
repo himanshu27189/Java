@@ -1,0 +1,15 @@
+package LoopingStatements;
+
+public class WhileLoop1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int i=1;
+		while(i<=10)
+		{
+			System.out.println("7 * "+i+" = "+7*i);
+			i++;
+		}
+	}
+
+}
